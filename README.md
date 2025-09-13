@@ -14,7 +14,7 @@ This is a React application for planning a party menu. Users can browse availabl
 
 ## Website Link 
 
-[Party-Menu-Selection-App] (party-menu-selection.netlify.app)
+[Party-Menu-Selection-App](party-menu-selection.netlify.app)
 
 ## Project Structure
 
